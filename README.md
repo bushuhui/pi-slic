@@ -39,8 +39,8 @@ Only test on LinuxMint 17.1 64-bit, may be other distributions are also support.
 
 
 ## Screenshot:
--![alt text](http://www.adv-ci.com/blog/wp-content/uploads/2015/09/screenshot_2-275x300.png "Screenshot 1")
--![alt text](http://www.adv-ci.com/blog/wp-content/uploads/2015/09/screenshot_1-1024x559.png "Screenshot 2")
+-![alt text](http://www.adv-ci.com/blog/wp-content/uploads/2015/09/photo.png "Screenshot 1")
+-![alt text](http://www.adv-ci.com/blog/wp-content/uploads/2015/09/photo.png_out_0.png "Screenshot 2")
 
 
 ## Project homepage:
