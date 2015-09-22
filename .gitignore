@@ -1,0 +1,5 @@
+*.o
+*.user*
+*~
+*.so
+test_slic
